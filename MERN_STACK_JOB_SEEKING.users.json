@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "66221468ff0f89d7f373b3aa"
+  },
+  "name": "Lipsa",
+  "email": "lm@gmail.com",
+  "phone": {
+    "$numberLong": "89452671234"
+  },
+  "password": "$2b$10$UXimekO0mJMgyS5u5nEOnejEZKiFn3xykIaiy8Utoqk1Y02f91g3a",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-04-19T06:51:20.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66222ff74a98a055a92eb8a0"
+  },
+  "name": "Chulu",
+  "email": "ch@gmail.com",
+  "phone": {
+    "$numberLong": "8945267167"
+  },
+  "password": "$2b$10$dKfhgEENEdHVGJ1VyOwioO03n0ffVS8TdPGAe46Hyf8v40zM5LKc.",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-04-19T08:48:55.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6622319ab48d5f7b1db918d4"
+  },
+  "name": "Niki",
+  "email": "nk@gmail.com",
+  "phone": {
+    "$numberLong": "8945269967"
+  },
+  "password": "$2b$10$OCsuARjuLfiBmr1ldjxVBu/lm7BHN6NBOxilrI/.KE7R/vhqbODzS",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-04-19T08:55:54.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664070ea975724f4141df2d5"
+  },
+  "name": "Chulu",
+  "email": "chulu@gmail.com",
+  "phone": {
+    "$numberLong": "8945267167"
+  },
+  "password": "$2b$10$ItRCUMZSepy32/lScdk6peWQ8WYiHsJVnAUxPMuKraePJhedT5W3O",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-05-12T07:34:02.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6640bbde26669ec3d0f7ab42"
+  },
+  "name": "lipsa",
+  "email": "avd@gmail.com",
+  "phone": 231289674,
+  "password": "$2b$10$olxXe2A2BKMpcjLp.I4yluun5BTeloPh65fH95nnReISdfeIuWCoO",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-05-12T12:53:50.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641f01785f9788592712346"
+  },
+  "name": "Jhon",
+  "email": "jh@gmail.com",
+  "phone": {
+    "$numberLong": "8945267168"
+  },
+  "password": "$2b$10$COVdIob41vntG2NquHnT.uHhB87zaYrUDZTeSZGlp/czijnig9KDe",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-05-13T10:48:55.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641f1a2f9726155f8a24101"
+  },
+  "name": "Ayushman Sharma",
+  "email": "ayushman@gmail.com",
+  "phone": {
+    "$numberLong": "9867453212"
+  },
+  "password": "$2b$10$hJX8majFQP68bGiOwLuMruRY52kQx3TcBLv0wHRkvJki7l9f4YajK",
+  "role": "Employer",
+  "createdAt": {
+    "$date": "2024-05-13T10:55:30.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649a0b398e8b44bd4399104"
+  },
+  "name": "Asad",
+  "email": "asad@gmail.com",
+  "phone": {
+    "$numberLong": "8786543212"
+  },
+  "password": "$2b$10$My6ndtciVXoIsHEVgws4DOF890cBfy3WSIObcBx4qxO0i2Rkt7t.W",
+  "role": "Job Seeker",
+  "createdAt": {
+    "$date": "2024-05-19T06:48:19.204Z"
+  },
+  "__v": 0
+}]

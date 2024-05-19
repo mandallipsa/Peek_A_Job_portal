@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "664098b87c4c28946e3ba648"
+  },
+  "title": "React Native",
+  "description": "Description.....Description.....Description....Descripton...",
+  "category": "WEB DEVELOPMENT",
+  "country": "USA",
+  "city": "New York",
+  "location": "123 z6 Street-9 Block-10A 123 z6 Street-9 Block-10A123 z6 Street-9 Block-10A123 z6 Street-9 Block-10Av123 z6 Street-9 Block-10A",
+  "salaryFrom": 50000,
+  "salaryTo": 250000,
+  "expired": false,
+  "jobPostedOn": {
+    "$date": "2024-05-12T10:14:23.310Z"
+  },
+  "postedBy": {
+    "$oid": "66221468ff0f89d7f373b3aa"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641f840f9726155f8a24116"
+  },
+  "title": "software developer",
+  "description": "This is  Jd of this job.This is  Jd of this job.This is  Jd of this job.This is  Jd of this job.This is  Jd of this job.",
+  "category": "SOFTWARE DEVELOPER",
+  "country": "India",
+  "city": "gurgaon",
+  "location": "Spaze iTech Park,Gurgaon,Haryana,India Spaze iTech Park,Gurgaon,Haryana,India Spaze iTech Park,Gurgaon,Haryana,India ",
+  "salaryFrom": 300000,
+  "salaryTo": 600000,
+  "expired": true,
+  "jobPostedOn": {
+    "$date": "2024-05-13T10:53:58.932Z"
+  },
+  "postedBy": {
+    "$oid": "6641f1a2f9726155f8a24101"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66476fbfcac9c283ccc998d7"
+  },
+  "title": "Masfgvjhbnkjhyf",
+  "description": "ghbjkmklhb,kdcnmlzk nhjzvcdhjnkalSGSHtafsjyuhnvlsznhgCAjyHNlkNABHCHGbnzvlnbHJGV hj nc MNHz g",
+  "category": "Mobile App Development",
+  "country": "India",
+  "city": "fgcvhjnkm",
+  "location": "fyhghijoikoihgjyasnxdjacnajvjkihsdvijsdzkvnjdvbxjhbLAHUJV",
+  "salaryFrom": 349000,
+  "salaryTo": 8899999,
+  "expired": false,
+  "jobPostedOn": {
+    "$date": "2024-05-17T14:15:09.937Z"
+  },
+  "postedBy": {
+    "$oid": "66221468ff0f89d7f373b3aa"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664777009f6d1c4d51ae7151"
+  },
+  "title": "vjhljmlkl.;",
+  "description": "cmhvgljmj,jfchgkjh;ljmjfthdfujmnlhbgngxhjlgfbzxbfghgb,jcdxfdzxnhmjhjkxvfcvçjjhgdznghmjfchn",
+  "category": "Frontend Web Development",
+  "country": "chvgh",
+  "city": "vhnbjnl",
+  "location": "fdyhgjlijkgutdchmbhhnznfhfv,fcbzxhhmjxbfvxcmhhxhmjjk",
+  "fixedSalary": 300000,
+  "expired": false,
+  "jobPostedOn": {
+    "$date": "2024-05-17T15:20:21.962Z"
+  },
+  "postedBy": {
+    "$oid": "66221468ff0f89d7f373b3aa"
+  },
+  "__v": 0
+}]
